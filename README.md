@@ -4,7 +4,7 @@
 Use this application to select different activities to take care of your digital pet and to keep alive.
 
 ## Screenshots
-![Tamagotchi Preview]()
+![Tamagotchi Preview](https://raw.githubusercontent.com/rtate2/tamagotchi/master/screenshots/tamagotchiShot.png)
 
 ## How to run
 * Clone down this project
